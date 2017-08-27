@@ -40,7 +40,7 @@ public class LeanFtTest extends UnitTestClassBase {
 
     @Test
     public void test() throws GeneralLeanFtException {
-    	Verify.isTrue(99==99);
+    	Verify.isTrue(true);
     }
 
 }
